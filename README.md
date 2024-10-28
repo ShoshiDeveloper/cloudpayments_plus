@@ -10,9 +10,11 @@ This is a package that allows you to use the cloudpayments sdk in Flutter.
 3. Use package from CloudpaymentsPlus 
 
 If you have version errors, then do the following:
-4.1. Check your Gradle version in android/build.gradle under buildscript/dependencies for com.android.tools.build:gradle:VERSION.
-4.2.1. If the VERSION is below 8.1.0, change it to 8.1.0.
-4.2.2. Open android/gradle/wrapper/gradle.properties and change distributionUrl=gradle-VERSION-bin/all.zip to distributionUrl=gradle-8.0-bin.zip (or a newer version).
+
+4. Check your Gradle version in android/build.gradle under buildscript/dependencies for com.android.tools.build:gradle:VERSION.
+If the VERSION is below 8.1.0
+   1. Change it to 8.1.0.
+   2. Open android/gradle/wrapper/gradle.properties and change distributionUrl=gradle-VERSION-bin/all.zip to distributionUrl=gradle-8.0-bin.zip (or a newer version).
 
 ## Supports
 ### Create cryptogram
