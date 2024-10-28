@@ -1,6 +1,6 @@
 name: cloudpayments_plus
 description: "This is a package that allows you to use the cloudpayments sdk in Flutter."
-version: 0.0.1
+version: 0.0.2
 homepage: https://pub.dev/packages/cloudpayments_plus
 repository: https://github.com/ShoshiDeveloper/cloudpayments_plus
 

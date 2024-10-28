@@ -1,3 +1,5 @@
+## 0.0.2
+- Update start steps
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Add createCryptogram version
